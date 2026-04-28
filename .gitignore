@@ -1,0 +1,14 @@
+# Ignore datasets
+ratings.csv
+movies.csv
+ratings_small.csv
+movies_small.csv
+tmdb_5000_movies.csv
+tmdb_5000_credits.csv
+
+# Ignore environment
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
